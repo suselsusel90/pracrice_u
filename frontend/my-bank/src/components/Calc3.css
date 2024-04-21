@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Ruda:wght@400..900&display=swap");
+
+.Calc3 {
+  background-color: rgb(47, 0, 255);
+  margin: 25px 24px;
+  height: 100%;
+  border-radius: 6px;
+}
+
+.Calc3 h3 {
+  font-family: "Ruda", sans-serif;
+  font-weight: 400;
+  margin: 10px 20px;
+}
+
+.Calc3 p {
+  font-family: "Ruda", sans-serif;
+  margin: 10px 20px;
+}
+
+.div2 input {
+  width: 25%;
+  height: 22px;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: black;
+  margin: 10px 20px;
+  position: relative;
+  left: 170px;
+  top: -45px;
+}
+
+.kredit h3 {
+  font-family: "Ruda", sans-serif;
+  font-weight: 400;
+  width: 45%;
+}
+
+.styleButton {
+  background-color: rgb(255, 255, 255);
+  margin: 20px 110px;
+  width: 154px;
+  height: 24px;
+  border-radius: 15px;
+}
